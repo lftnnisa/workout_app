@@ -1,0 +1,7 @@
+PyQt5
+python-dotenv
+mysql-connector-python
+ultralytics
+opencv-python
+SpeechRecognition
+PyAudio

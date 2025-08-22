@@ -1,0 +1,10 @@
+{
+    nama: lifta
+    type : plank
+    duration : 5 second
+},
+{
+    nama : vieri
+    type : plank
+    duration : 10 second
+}

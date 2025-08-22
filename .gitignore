@@ -1,0 +1,16 @@
+# Ignore dist folder
+/dist/
+
+# Ignore build folder
+/build/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+.env
+
+pc_config.ini
+
+# ignore venv 
+/venv_app/
